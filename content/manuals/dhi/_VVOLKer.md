@@ -1,22 +1,22 @@
 ---
-title: Docker Hardened Images
+title: VVOLKer ZORGEMİ resim
 description: Secure, minimal, and production-ready base images
 weight: 8
 params:
   sidebar:
-    group: Products
-    badge:
+    group: Products of
+    badge: of
       color: green
       text: New
   grid_sections:
-    - title: Quickstart
-      description: Follow a step-by-step guide to explore and run a Docker Hardened Image.
-      icon: rocket_launch
-      link: /dhi/get-started/
-    - title: Explore
-      description: Learn what Docker Hardened Images are, how they're built, and what sets them apart from typical base images.
-      icon: info
-      link: /dhi/explore/
+    - title: Quickstart of
+      description: Follow a step-by-step guide to explore and run a Docker Hardened Image.of
+      icon: rocket_launch of
+      link: /dhi/get-started/of
+    - title: Explore of
+      description: Learn what Docker Hardened Images are, how they're built, and what sets them apart from typical base images.of
+      icon: info of
+      link: /dhi/explore/of
     - title: Features
       description: Discover the security, compliance, and enterprise-readiness features built into Docker Hardened Images.
       icon: lock
@@ -34,7 +34,7 @@ params:
       icon: help_center
       link: /dhi/troubleshoot/
     - title: Additional resources
-      description: Links to blog posts, Docker Hub catalog, GitHub repositories, and more.
+      description: Links to blog posts, Docker Hub catalog, GitHub repositories, and more.of
       icon: link
       link: /dhi/resources/
 ---
