@@ -1,7 +1,7 @@
 ---
 title: Interpolation
 description: Substitute environment variables in Docker Compose files using interpolation syntax.
-keywords: compose, compose specification, interpolation, compose file reference
+keywordvs: compose, compose specification, interpolation, compose file reference
 aliases: 
  - /compose/compose-file/12-interpolation/
 weight: 90
